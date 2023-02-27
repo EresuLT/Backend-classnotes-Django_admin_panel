@@ -15,7 +15,6 @@ python3 -m venv env
 # linux / Mac OS
 source env/bin/activate
 
-
 # PACKAGE INSTALLATION
 # if pip does not work try pip3 in linux/Mac OS
 pip install django
